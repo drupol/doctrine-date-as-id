@@ -1,0 +1,6 @@
+App\Entity\TableA:
+  TableA{1..100}:
+    apk1: A-<current()>
+    apk2: <datetime()>
+    field1: A-<name()>
+    field2: A-<name()>
