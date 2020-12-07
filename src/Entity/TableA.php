@@ -26,8 +26,9 @@ class TableA
     public $apk1;
 
     /**
+     * @var \Cake\Chronos\Chronos
      * @ORM\Id
-     * @ORM\Column(type="datetime", name="APK2")
+     * @ORM\Column(type="chronos_datetime", name="APK2")
      */
     public $apk2;
 

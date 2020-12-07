@@ -27,7 +27,8 @@
         "symfony/serializer": "5.2.*",
         "symfony/twig-bundle": "5.2.*",
         "symfony/validator": "5.2.*",
-        "symfony/yaml": "5.2.*"
+        "symfony/yaml": "5.2.*",
+        "warhuhn/chronos-doctrine": "^2.0"
     },
     "config": {
         "optimize-autoloader": true,
